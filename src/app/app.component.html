@@ -1,0 +1,11 @@
+<div class="counter">
+    <div class="title">
+        <h1>{{title}}</h1>
+    </div>
+    <div class="count">
+     <h1>{{count}}</h1>
+    </div>
+    
+
+<app-child (counter_task)="count = $event" [add]="a" [rst]="b" [sub]="c"></app-child>
+</div>

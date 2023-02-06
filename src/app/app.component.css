@@ -1,0 +1,15 @@
+.title{
+    color: red;
+    text-align: center;
+}
+.count{
+    color: blueviolet;
+    text-align: center;
+}
+
+.counter{
+    border: 5px solid;
+    margin:1090;
+    background-color: beige;
+    margin:100px;
+}
